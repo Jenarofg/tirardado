@@ -14,6 +14,7 @@ class  MainActivity : AppCompatActivity() {
         btntirar.setOnClickListener {
             tirarDado()
         }
+
         /**
          * Llamamos al método tirarDado para inicializarlo y que
          * no salga la pantalla en blanco en el arranque.
