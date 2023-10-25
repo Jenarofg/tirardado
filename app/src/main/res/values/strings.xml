@@ -2,4 +2,5 @@
     <string name="app_name">HelloWorld</string>
     <string name="btn_tirar_text">Tirar</string>
     <string name="texto">1</string>
+    <string name="result_dado">Dado</string>
 </resources>
